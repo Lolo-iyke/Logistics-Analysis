@@ -1,6 +1,6 @@
 # 📦 Logistics & Supply Chain Performance Analysis
 
-An end-to-end data analytics project examining operational efficiency, delivery performance, and supply chain bottlenecks using Power BI.
+An end-to-end data analytics project examining operational efficiency, delivery performance, and supply chain bottlenecks using excel and Power BI.
 
 ---
 
@@ -8,7 +8,7 @@ An end-to-end data analytics project examining operational efficiency, delivery 
 This project provides data-driven insights into logistics operations, helping stakeholders identify delivery delays, track regional fulfillment metrics, and optimize overall supply chain efficiency. 
 
 * **Dashboard File:** `cap.pbix`
-* **Primary Tool:** Microsoft Power BI
+* **Primary Tool:** Microsoft Power BI and Excel
 * **Domain:** Supply Chain & Logistics Analytics
 
 ---
